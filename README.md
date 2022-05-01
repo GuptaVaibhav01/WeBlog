@@ -2,7 +2,6 @@
 This is a blogging website where any one can share their thoughts on the topics of their liking. The user need to create an account in order to write a blog.
 This website uses email authentication for the verification of users.
 
-
 <img src="https://github.com/GuptaVaibhav01/WeBlog/blob/main/Screenshots/2022-04-20%20(8).png" width="500" alt="Screenshot"/>    <img src="https://github.com/GuptaVaibhav01/WeBlog/blob/main/Screenshots/2022-04-20%20(9).png" width="500" alt="Screenshot"/>
 
 <img src="https://github.com/GuptaVaibhav01/WeBlog/blob/main/Screenshots/2022-04-20%20(7).png" width="500" alt="Screenshot"/>   <img src="https://github.com/GuptaVaibhav01/WeBlog/blob/main/Screenshots/2022-04-20%20(14).png" width="500" alt="Screenshot"/>
